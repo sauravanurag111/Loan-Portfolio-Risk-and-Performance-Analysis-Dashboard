@@ -7,7 +7,7 @@ This project involves analyzing and visualizing loan data to derive actionable i
 - Exploratory Data Analysis: Statistical summaries, data distribution, and correlations.
 - Visualizations: Scatterplots, histograms, and boxplots to explore relationships and distributions. Enhanced plots such as regression lines and pairplots for in-depth analysis.
 
-Results
+*Results*
 Interest Rates vs Loan Amount: Analyzed and visualized the relationship between interest rates and loan amounts.
 Loan Amount by Employment Length: Investigated the distribution of loan amounts across different employment lengths.
 Good vs Bad Loans: Classified loans based on performance and visualized their distribution.
